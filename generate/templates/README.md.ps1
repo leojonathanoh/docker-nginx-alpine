@@ -8,7 +8,7 @@ It currently uses `nginx:1.14-alpine` image as the base
 
 | Tags |
 |:-------:| $( $VARIANTS | % {
-"`n| ``:$( $_['name'] )`` |"
+"`n| ``:$( $_['tag'] )`` |"
 })
 
 "@ + @'
