@@ -1,6 +1,6 @@
 @'
-# nginx-alpine
-Same as the original image, but with the nginx user in the www-data group
+# docker-nginx-alpine
+Based on the original docker nginx image, but with the nginx user in the www-data group
 
 It currently uses `nginx:1.14-alpine` image as the base
 
