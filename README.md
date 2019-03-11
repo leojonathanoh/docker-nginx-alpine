@@ -1,4 +1,7 @@
 # docker-nginx-alpine
+
+[![pipeline status](https://gitlab.com/leojonathanoh/docker-nginx-alpine/badges/dev/pipeline.svg)](https://gitlab.com/leojonathanoh/docker-nginx-alpine/commits/dev)
+
 Based on the original docker nginx image, but with the nginx user in the www-data group
 
 It currently uses `nginx:1.14-alpine` image as the base
